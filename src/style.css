@@ -1,0 +1,15 @@
+.todo {
+	display: flex;
+	transition: 0.3s;
+}
+.todo:hover {
+	background: #acacac;
+}
+.todo-list {
+	width: 600px;
+	border: 1px solid gray;
+	margin: 0 auto;
+}
+.todo-list .title {
+	text-align: center;
+}
